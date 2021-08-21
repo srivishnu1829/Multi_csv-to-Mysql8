@@ -1,0 +1,12 @@
+- source_file_prefix: TOS_MASTER_202106151802.csv
+  target_db_url: 'jdbc:mysql://db-rds-dev.cg6mtzrdu9a8.ap-south-1.rds.amazonaws.com:3306/efreightx_dev101'
+  target_table_name: TOS_MASTER_202106151802_k23456
+  target_db_user_name: efreightx_dev101
+  target_db_password: efreightxdev@2021
+  
+- source_file_prefix: PORT_MASTER_202107201623.csv
+  target_db_url: 'jdbc:mysql://db-rds-dev.cg6mtzrdu9a8.ap-south-1.rds.amazonaws.com:3306/efreightx_dev101'
+  target_table_name: PORT_MASTER_202107201623_k23456
+  target_db_user_name: efreightx_dev101
+  target_db_password: efreightxdev@2021
+  
